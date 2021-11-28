@@ -1,7 +1,7 @@
 # bikesharing
 
 
-[link to dashboard]: https://public.tableau.com/app/profile/michael.xie/viz/CheckoutTimesforUsers_16380444871620/CitiBikeDataAnalysisChallenge?publish=yes
+[link to dashboard]("https://public.tableau.com/app/profile/michael.xie/viz/CheckoutTimesforUsers_16380444871620/CitiBikeDataAnalysisChallenge?publish=yes")
 Overview:
 The purpose of this project was to gain an overview of Tableau and learn how to display information utilizing the CitiBike information from August 2019. The module went back to Pandas, where I was able to change the datatype of a certain column (trip duration). From there, I was able to create visualizations for information that correlated thigs such as gender and time. 
 Results:
